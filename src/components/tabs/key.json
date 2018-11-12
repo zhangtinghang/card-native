@@ -1,0 +1,42 @@
+[
+  {
+    "path": 0,
+    "name": "银行",
+    "checked": false
+  },
+  {
+    "path": 1,
+    "name": "餐饮",
+    "checked": false
+  },
+  {
+    "path": 2,
+    "name": "政府",
+    "checked": false
+  },
+  {
+    "path": 3,
+    "name": "行业协会",
+    "checked": false
+  },
+  {
+    "path": 4,
+    "name": "游戏",
+    "checked": false
+  },
+  {
+    "path": 5,
+    "name": "ITO",
+    "checked": false
+  },
+  {
+    "path": 6,
+    "name": " BPO",
+    "checked": false
+  },
+  {
+    "path": 7,
+    "name": " 开发游戏",
+    "checked": false
+  }
+]
